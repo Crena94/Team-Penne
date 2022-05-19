@@ -26,6 +26,11 @@ It is important to install JSON library, panel, sqlalchemy, MCForecastTools, os,
 ```from MCForecastTools import MCSimulation```
 ```%matplotlib inline```
 
+## Example
+
+![alt text](https://github.com/Crena94/Team-Penne/tree/main/mc_sim.png)
+
+
 ## Contributors
 
 --- David Ports - dave.ports.1@gmail.com
