@@ -29,8 +29,11 @@ It is important to install JSON library, alpaca trade api, requests library, pan
 ## Contributors
 
 --- David Ports - dave.ports.1@gmail.com
+
 --- Darian Saunders - 
+
 --- Matt Crater - 
+
 --- Ashleigh Davis - 
 
 ## License
