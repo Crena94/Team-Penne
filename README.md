@@ -32,7 +32,7 @@ It is important to install JSON library, alpaca trade api, requests library, pan
 
 --- Darian Saunders - 
 
---- Matt Crater - 
+--- Matt Crater - mathias1026@gmail.com
 
 --- Ashleigh Davis - 
 
