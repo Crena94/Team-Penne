@@ -35,11 +35,11 @@ It is important to install JSON library, panel, sqlalchemy, MCForecastTools, os,
 
 --- David Ports - dave.ports.1@gmail.com
 
---- Darian Saunders - 
+--- Darian Saunders - dariansaunders@ymail.com
 
 --- Matt Crater - mathias1026@gmail.com
 
---- Ashleigh Davis - 
+--- Ashleigh Davis - rashleighdavis@yahoo.com
 
 ## License
 
