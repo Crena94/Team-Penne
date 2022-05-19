@@ -1,7 +1,7 @@
 # Team-Penne
 # Portfolio Analyzer
 
---- This is a jupyter-notebook-written analysis of different portfolios separated based on risk tolerance.  The goal is to analyze the various portfolios to find an amalgam of weightings that are projected to outperform the S&P500.  Digital assets, small-cap stocks, and large-cap stocks are included and organized based on risk tolerance.  
+--- This is a jupyter-notebook-written analysis of an aggressively weighted portfolio including allocations in digital assets, small-cap stocks, mid-cap stocks, and large cap stocks.  The goal of the project is to create a portfolio that outperforms the S&P500 over a period of 20 years. Albeit without a sufficient amount of data for certain assets to make any real meaningful and reasonable analysis, our unique portfolio was able to meet our goal after running multiple Monte Carlo Simulations.
 
 ## Technologies
 
@@ -9,7 +9,7 @@ Jupyter Notebook is required for the analyzing_stocks.ipynb file to run.
 
 * (https://github.com/jupyter/notebook)
 
-It is important to install JSON library, alpaca trade api, requests library, pandas, dotenv, and matplotlib. 
+It is important to install JSON library, panel, sqlalchemy, MCForecastTools, os, alpaca trade api, requests library, pandas, dotenv, and matplotlib. 
 
 ### Required Libraries
 
