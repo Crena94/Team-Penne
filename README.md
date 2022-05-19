@@ -28,7 +28,7 @@ It is important to install JSON library, panel, sqlalchemy, MCForecastTools, os,
 
 ## Example
 
-![alt text](https://github.com/Crena94/Team-Penne/tree/main/mc_sim.png)
+![Monte Carlo Simulation](https://github.com/Crena94/Team-Penne/blob/dave_branch/mc_sim.png)
 
 
 ## Contributors
